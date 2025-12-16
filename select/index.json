@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春を発つ/可不",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2025-12-16T13:32:48.860476Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春を発つ (「日々、」Acoustic Ver.) [Online Live, 2023]",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_春を発つ_(「日々、」Acoustic_Ver.)_[Online_Live,_2023]_カンザキイオリ.txt"
+    }
+  ]
+}
